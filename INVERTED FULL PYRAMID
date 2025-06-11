@@ -1,3 +1,4 @@
+import java.util.*;
 public class INVERTEDFULLPYRAMID {
     public static void main(String[] args) {
         int rows = 4;
