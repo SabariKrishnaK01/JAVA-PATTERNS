@@ -1,5 +1,5 @@
 import java.util.*;
-public class INVERTEDFULLPYRAMID {
+public class InvertedFullPyramid {
     public static void main(String[] args) {
         int rows = 4;
         int spaces = 1;
