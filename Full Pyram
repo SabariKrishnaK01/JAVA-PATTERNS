@@ -1,5 +1,5 @@
 import java.util.*;
-public class CenteredTriangle {
+public class FullPyramid {
     public static void main(String[] args) {
         int rows = 4; // Change this to adjust height
         
